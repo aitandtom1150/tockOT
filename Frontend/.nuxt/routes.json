@@ -1,0 +1,68 @@
+[
+  {
+    "name": "access-control",
+    "path": "/access-control",
+    "component": "/Users/ait0102/Downloads/mock/pages/access-control/index.vue",
+    "chunkName": "pages/access-control/index"
+  },
+  {
+    "name": "attendance",
+    "path": "/attendance",
+    "component": "/Users/ait0102/Downloads/mock/pages/attendance/index.vue",
+    "chunkName": "pages/attendance/index"
+  },
+  {
+    "name": "company",
+    "path": "/company",
+    "component": "/Users/ait0102/Downloads/mock/pages/company/index.vue",
+    "chunkName": "pages/company/index"
+  },
+  {
+    "name": "leave",
+    "path": "/leave",
+    "component": "/Users/ait0102/Downloads/mock/pages/leave/index.vue",
+    "chunkName": "pages/leave/index"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "/Users/ait0102/Downloads/mock/pages/login.vue",
+    "chunkName": "pages/login"
+  },
+  {
+    "name": "managecompany",
+    "path": "/managecompany",
+    "component": "/Users/ait0102/Downloads/mock/pages/managecompany/index.vue",
+    "chunkName": "pages/managecompany/index"
+  },
+  {
+    "name": "manageposition",
+    "path": "/manageposition",
+    "component": "/Users/ait0102/Downloads/mock/pages/manageposition/index.vue",
+    "chunkName": "pages/manageposition/index"
+  },
+  {
+    "name": "claims-overtime",
+    "path": "/claims/overtime",
+    "component": "/Users/ait0102/Downloads/mock/pages/claims/overtime/index.vue",
+    "chunkName": "pages/claims/overtime/index"
+  },
+  {
+    "name": "documents-approval",
+    "path": "/documents/approval",
+    "component": "/Users/ait0102/Downloads/mock/pages/documents/approval/index.vue",
+    "chunkName": "pages/documents/approval/index"
+  },
+  {
+    "name": "documents-request",
+    "path": "/documents/request",
+    "component": "/Users/ait0102/Downloads/mock/pages/documents/request/index.vue",
+    "chunkName": "pages/documents/request/index"
+  },
+  {
+    "name": "managecompany-create",
+    "path": "/managecompany/create",
+    "component": "/Users/ait0102/Downloads/mock/pages/managecompany/create.vue",
+    "chunkName": "pages/managecompany/create"
+  }
+]
