@@ -12,8 +12,8 @@ import { setContext, getLocation, getRouteData, normalizeError } from './utils'
 
 /* Plugins */
 
-import nuxt_plugin_plugin_193e712a from 'nuxt_plugin_plugin_193e712a' // Source: ./components/plugin.js (mode: 'all')
-import nuxt_plugin_plugin_3cbf19f8 from 'nuxt_plugin_plugin_3cbf19f8' // Source: ./vuetify/plugin.js (mode: 'all')
+import nuxt_plugin_plugin_50813443 from 'nuxt_plugin_plugin_50813443' // Source: ./components/plugin.js (mode: 'all')
+import nuxt_plugin_plugin_43c5a2ea from 'nuxt_plugin_plugin_43c5a2ea' // Source: ./vuetify/plugin.js (mode: 'all')
 import nuxt_plugin_veevalidate_1a0c1998 from 'nuxt_plugin_veevalidate_1a0c1998' // Source: ../plugins/vee-validate.js (mode: 'all')
 
 // Component: <ClientOnly>
@@ -182,12 +182,12 @@ async function createApp(ssrContext, config = {}) {
   }
   // Plugin execution
 
-  if (typeof nuxt_plugin_plugin_193e712a === 'function') {
-    await nuxt_plugin_plugin_193e712a(app.context, inject)
+  if (typeof nuxt_plugin_plugin_50813443 === 'function') {
+    await nuxt_plugin_plugin_50813443(app.context, inject)
   }
 
-  if (typeof nuxt_plugin_plugin_3cbf19f8 === 'function') {
-    await nuxt_plugin_plugin_3cbf19f8(app.context, inject)
+  if (typeof nuxt_plugin_plugin_43c5a2ea === 'function') {
+    await nuxt_plugin_plugin_43c5a2ea(app.context, inject)
   }
 
   if (typeof nuxt_plugin_veevalidate_1a0c1998 === 'function') {

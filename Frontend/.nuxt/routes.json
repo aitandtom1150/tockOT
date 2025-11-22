@@ -2,67 +2,78 @@
   {
     "name": "access-control",
     "path": "/access-control",
-    "component": "/Users/ait0102/Downloads/mock/pages/access-control/index.vue",
-    "chunkName": "pages/access-control/index"
+    "component": "/Users/ait0102/Downloads/tockOT/Frontend/pages/access-control/index.vue",
+    "chunkName": "pages/access-control/index",
+    "_name": "_89a31418"
   },
   {
     "name": "attendance",
     "path": "/attendance",
-    "component": "/Users/ait0102/Downloads/mock/pages/attendance/index.vue",
-    "chunkName": "pages/attendance/index"
+    "component": "/Users/ait0102/Downloads/tockOT/Frontend/pages/attendance/index.vue",
+    "chunkName": "pages/attendance/index",
+    "_name": "_0a89cb29"
   },
   {
     "name": "company",
     "path": "/company",
-    "component": "/Users/ait0102/Downloads/mock/pages/company/index.vue",
-    "chunkName": "pages/company/index"
+    "component": "/Users/ait0102/Downloads/tockOT/Frontend/pages/company/index.vue",
+    "chunkName": "pages/company/index",
+    "_name": "_fc6a05da"
   },
   {
     "name": "leave",
     "path": "/leave",
-    "component": "/Users/ait0102/Downloads/mock/pages/leave/index.vue",
-    "chunkName": "pages/leave/index"
+    "component": "/Users/ait0102/Downloads/tockOT/Frontend/pages/leave/index.vue",
+    "chunkName": "pages/leave/index",
+    "_name": "_0286418d"
   },
   {
     "name": "login",
     "path": "/login",
-    "component": "/Users/ait0102/Downloads/mock/pages/login.vue",
-    "chunkName": "pages/login"
+    "component": "/Users/ait0102/Downloads/tockOT/Frontend/pages/login.vue",
+    "chunkName": "pages/login",
+    "_name": "_35be423c"
   },
   {
     "name": "managecompany",
     "path": "/managecompany",
-    "component": "/Users/ait0102/Downloads/mock/pages/managecompany/index.vue",
-    "chunkName": "pages/managecompany/index"
+    "component": "/Users/ait0102/Downloads/tockOT/Frontend/pages/managecompany/index.vue",
+    "chunkName": "pages/managecompany/index",
+    "_name": "_ae0e83e4"
   },
   {
     "name": "manageposition",
     "path": "/manageposition",
-    "component": "/Users/ait0102/Downloads/mock/pages/manageposition/index.vue",
-    "chunkName": "pages/manageposition/index"
+    "component": "/Users/ait0102/Downloads/tockOT/Frontend/pages/manageposition/index.vue",
+    "chunkName": "pages/manageposition/index",
+    "_name": "_37a2e50e"
   },
   {
     "name": "claims-overtime",
     "path": "/claims/overtime",
-    "component": "/Users/ait0102/Downloads/mock/pages/claims/overtime/index.vue",
-    "chunkName": "pages/claims/overtime/index"
+    "component": "/Users/ait0102/Downloads/tockOT/Frontend/pages/claims/overtime/index.vue",
+    "chunkName": "pages/claims/overtime/index",
+    "_name": "_4a302f8f"
   },
   {
     "name": "documents-approval",
     "path": "/documents/approval",
-    "component": "/Users/ait0102/Downloads/mock/pages/documents/approval/index.vue",
-    "chunkName": "pages/documents/approval/index"
+    "component": "/Users/ait0102/Downloads/tockOT/Frontend/pages/documents/approval/index.vue",
+    "chunkName": "pages/documents/approval/index",
+    "_name": "_4acda5ba"
   },
   {
     "name": "documents-request",
     "path": "/documents/request",
-    "component": "/Users/ait0102/Downloads/mock/pages/documents/request/index.vue",
-    "chunkName": "pages/documents/request/index"
+    "component": "/Users/ait0102/Downloads/tockOT/Frontend/pages/documents/request/index.vue",
+    "chunkName": "pages/documents/request/index",
+    "_name": "_8796a164"
   },
   {
     "name": "managecompany-create",
     "path": "/managecompany/create",
-    "component": "/Users/ait0102/Downloads/mock/pages/managecompany/create.vue",
-    "chunkName": "pages/managecompany/create"
+    "component": "/Users/ait0102/Downloads/tockOT/Frontend/pages/managecompany/create.vue",
+    "chunkName": "pages/managecompany/create",
+    "_name": "_c4596320"
   }
 ]
