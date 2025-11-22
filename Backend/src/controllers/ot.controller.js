@@ -35,7 +35,7 @@ export const createOt = async (req, res) => {
     if (!body.start_time || !body.end_time) {
       return res.status(400).json({
         success: false,
-        message: 'start_time และ end_time จำเป็นต้องมี'
+        message: 'start_time และ end_time'
       })
     }
 
